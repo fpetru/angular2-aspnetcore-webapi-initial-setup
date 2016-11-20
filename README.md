@@ -1,1 +1,1 @@
-# angular2-aspnetcore-webapi-initial-setup
+# angular2-aspnetcore-webapi
